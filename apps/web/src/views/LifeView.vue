@@ -97,7 +97,7 @@ const windowStartOptions = [7, 8, 9, 10, 11].map(h => ({ value: String(h * 60), 
 const windowEndOptions = [18, 19, 20, 21, 22, 23].map(h => ({ value: String(h * 60), label: `${h}:00` }))
 const presetOptions = [
   { value: 'balanced', label: '均衡' }, { value: 'warm', label: '温柔' },
-  { value: 'cool', label: '高冷' }, { value: 'charming', label: '妩媚' },
+  { value: 'cool', label: '高冷' }, { value: 'charming', label: '肉欲' },
   { value: 'direct', label: '直接' }, { value: 'dismissive', label: '嫌弃' },
   { value: 'rational', label: '理性' }, { value: 'playful', label: '俏皮' },
   { value: 'quiet', label: '沉静' }, { value: 'sharp', label: '毒舌' },
